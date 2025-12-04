@@ -1,4 +1,4 @@
-# VERONICA
+# V.E.R.O.N.I.C.A.
 
 Vulnerabilities Exposed Reveal Obsolete Nodes In Critical Applications
 
