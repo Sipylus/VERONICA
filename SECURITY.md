@@ -1,7 +1,3 @@
-# Security Policy
-
-We value the security of our systems, services, and users. If you discover a security vulnerability in any Sipylus product, service, or infrastructure, we encourage you to report it to us responsibly.
-
 # Reporting a Vulnerability
 
 🌐 Languages
