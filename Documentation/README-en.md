@@ -4,9 +4,9 @@
 
 <h2>How to Report</h2>
 <ul>
-  <li><strong>Contact:</strong> <a href="mailto:security@sipylus.com">security@sipylus.com</a></li>
-  <li><strong>Encryption:</strong> <a href="https://www.sipylus.com/.well-known/publickey.txt">Use our public PGP key</a></li>
-  <li><strong>Preferred language:</strong> English</li>
+  <li><strong>Contact:</strong> <em>Email</em></li>
+  <li><strong>Encryption:</strong> <em>Use our public PGP key</em></li>
+  <li><strong>Preferred language:</strong> <em>English</em></li>
 </ul>
 
 <h2>What to Include</h2>
@@ -22,7 +22,7 @@
 <ul>
   <li>We will acknowledge receipt of your report within 72 hours.</li>
   <li>We will keep you informed of our remediation progress.</li>
-  <li>We will credit you on our <a href="https://www.sipylus.com/.well-known/acknowledgments.txt">Acknowledgments page</a> if you wish.</li>
+  <li>We will credit you on our <em>Acknowledgments page</em> if you wish.</li>
   <li>We will not take legal action against researchers who report issues in good faith, following this policy.</li>
 </ul>
 
